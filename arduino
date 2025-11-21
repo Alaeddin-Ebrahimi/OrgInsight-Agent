@@ -1,0 +1,21 @@
+OrgInsight-Agent/
+│
+├── README.md
+├── architecture/
+│   ├── orginsight-architecture.png
+│   └── rag-flow.png
+│
+├── cost-model/
+│   ├── copilot-cost-analysis.md
+│   └── calculator.xlsx  (optional)
+│
+├── sharepoint-setup/
+│   ├── connector-setup.md
+│   └── permissions-guide.md
+│
+├── agent-design/
+│   ├── flows.md
+│   ├── prompts.md
+│   └── grounding-strategy.md
+│
+└── LICENSE
